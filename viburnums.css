@@ -2,17 +2,17 @@
 body, h1, h2, h3,p,ul{margin: 0;
 }
 
-.site-header-viburnums,.main-content-viburnums,.site-footer-viburnums{padding:30px}
+.site-header-viburnums,.main-content-viburnums,.site-footer-viburnums{padding:50px}
 
 
 
 .site-header-viburnums{background-color:#06A77D;}
 
-.main-content-viburnums{background-color: #005377; line-height: 1.8;}
+.main-content-viburnums{background-color: #005377; line-height: 1.8;margin-top: 10px; margin-bottom:10px;}
 
 .site-footer-viburnums{background-color: #052F5F; color: azure;
 }
 
-.email:hover{color: azure;}
+.email{color: azure;}
 
-.email:visited{color: #06A77D;}
+.email:hover{color: #06A77D;}
