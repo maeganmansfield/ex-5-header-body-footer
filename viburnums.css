@@ -1,0 +1,18 @@
+
+body, h1, h2, h3,p,ul{margin: 0;
+}
+
+.site-header-viburnums,.main-content-viburnums,.site-footer-viburnums{padding:30px}
+
+
+
+.site-header-viburnums{background-color:#06A77D;}
+
+.main-content-viburnums{background-color: #005377; line-height: 1.8;}
+
+.site-footer-viburnums{background-color: #052F5F; color: azure;
+}
+
+.email:hover{color: azure;}
+
+.email:visited{color: #06A77D;}

@@ -1,0 +1,11 @@
+html{background-color:blanchedalmond;}
+body, h1, h2,h3,p,ul{margin: 0;
+}
+
+.site-header,.main-content,.site-footer{padding:30px}
+
+.site-header{background-color: blanchedalmond;}
+
+.main-content{background-color: cadetblue;}
+
+.site-footer{background-color:darkcyan;}

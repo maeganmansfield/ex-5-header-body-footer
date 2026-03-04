@@ -1,0 +1,10 @@
+body, h1, h2, h3,p,ul{margin: 0;
+}
+
+.site-header-uwm,.main-content-uwm,.site-footer-uwm{padding:30px}
+
+.site-header-uwm{background-color:#ffbd00; line-height: 1.5;}
+
+.main-content-uwm{background-color: #FEF2DA; line-height: 1.8;}
+
+.site-footer-uwm{background-color: black; color:#ffbd00;}
