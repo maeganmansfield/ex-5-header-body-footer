@@ -2,15 +2,23 @@
 body, h1, h2, h3,p,ul{margin: 0;
 }
 
+ul{font-family: "meno-display", serif;
+}
 .site-header-viburnums,.main-content-viburnums,.site-footer-viburnums{padding:50px}
 
+h1{font-family: "rl-horizon", sans-serif;}
 
+h2{font-family: "freight-big-pro", serif; font-weight: 800;
+}
 
 .site-header-viburnums{background-color:#06A77D;}
 
-.main-content-viburnums{background-color: #005377; line-height: 1.8;margin-top: 10px; margin-bottom:10px;}
+.main-content-viburnums{background-color: #005377; line-height: 1.8;margin-top: 10px; margin-bottom:10px;font-family: "meno-display", serif;
+}
 
-.site-footer-viburnums{background-color: #052F5F; color: azure;
+.site-footer-viburnums{background-color: #052F5F; color: azure;font-family: "meno-display", serif;
+
+
 }
 
 .email{color: azure;}

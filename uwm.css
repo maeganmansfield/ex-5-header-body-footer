@@ -1,10 +1,17 @@
 body, h1, h2, h3,p,ul{margin: 0;
 }
+h1,h2,h3{font-family: "futura-pt", sans-serif;}
 
-.site-header-uwm,.main-content-uwm,.site-footer-uwm{padding:45px}
+.site-header-uwm,.main-content-uwm,.site-footer-uwm{padding:45px;font-family: "roboto", sans-serif;
+font-weight: 400;
+font-style: normal;}
 
 .site-header-uwm{background-color:#ffbd00; line-height: 1.5;}
 
-.main-content-uwm{background-color: #FEF2DA; line-height: 1.8; margin-top: 10px; margin-bottom: 10px;}
+.main-content-uwm{background-color: #FEF2DA; line-height: 1.8; margin-top: 10px; margin-bottom: 10px;font-family: "roboto", sans-serif;
+font-weight: 400;
+font-style: normal;}
 
-.site-footer-uwm{background-color: black; color:#ffbd00;}
+.site-footer-uwm{background-color: black; color:#ffbd00;font-family: "roboto", sans-serif;
+font-weight: 400;
+font-style: normal;}

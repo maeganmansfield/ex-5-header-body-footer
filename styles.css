@@ -2,10 +2,14 @@ html{background-color:blanchedalmond;}
 body, h1, h2,h3,p,ul{margin: 0;
 }
 
-.site-header,.main-content,.site-footer{padding:30px}
+.site-header,.main-content,.site-footer{padding: 30px;
+  font-family: "laca-variable",sans-serif;
+  font-variation-settings: 'wght' 400; 
+}
+
 
 .site-header{background-color: blanchedalmond;}
 
-.main-content{background-color: cadetblue;}
+.main-content{background-color: cadetblue;margin-top: 10px; margin-bottom:10px;}
 
 .site-footer{background-color:darkcyan;}
