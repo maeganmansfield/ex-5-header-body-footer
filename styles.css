@@ -1,12 +1,10 @@
-html{background-color:blanchedalmond;}
+html{background-color:blanchedalmond;font-family: "laca-variable",sans-serif;
+  font-variation-settings: 'wght' 400; }
 body, h1, h2,h3,p,ul{margin: 0;
 }
 
 .site-header,.main-content,.site-footer{padding: 30px;
-  font-family: "laca-variable",sans-serif;
-  font-variation-settings: 'wght' 400; 
 }
-
 
 .site-header{background-color: blanchedalmond;}
 
